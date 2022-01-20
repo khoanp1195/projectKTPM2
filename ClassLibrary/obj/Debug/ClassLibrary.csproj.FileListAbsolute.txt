@@ -1,0 +1,5 @@
+F:\TongHop\HK2034\PhatTrienUngDungPhanMem\ClassLibrary\bin\Debug\ClassLibrary.dll
+F:\TongHop\HK2034\PhatTrienUngDungPhanMem\ClassLibrary\bin\Debug\ClassLibrary.pdb
+F:\TongHop\HK2034\PhatTrienUngDungPhanMem\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+F:\TongHop\HK2034\PhatTrienUngDungPhanMem\ClassLibrary\obj\Debug\ClassLibrary.dll
+F:\TongHop\HK2034\PhatTrienUngDungPhanMem\ClassLibrary\obj\Debug\ClassLibrary.pdb
